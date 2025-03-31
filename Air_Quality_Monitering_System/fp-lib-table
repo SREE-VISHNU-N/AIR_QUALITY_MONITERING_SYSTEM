@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OLED SSD1306")(type "KiCad")(uri "S:/KICAD/PROJECTS/Air Quality Monitering System/Footprint/OLED SSD1306.pretty")(options "")(descr ""))
+)
